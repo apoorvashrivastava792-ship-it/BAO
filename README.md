@@ -1,14 +1,1 @@
-Month^AvgSalesPrice^Item^ShipToId^SoldToId^PriceCurrency^W_EndMarketChild^ShipFrom
-2024-02-29^0.012350000000000000^LK7118_6729_CONS^CONS_242809^CONS_242809^USD^CONS_EA0400^All
-2025-01-31^0.017700000000000000^BG1373_6729_CONS^CONS_238539^CONS_238539^USD^CONS_EA0400^All
-2024-01-31^0.062212000000000000^ZC3394_6729_CONS^CONS_80688^CONS_80688^USD^CONS_EA0400^All
-2025-02-28^0.026970000000000000^LB0873_6729_CONS^CONS_140406^CONS_140406^USD^CONS_EA0400^All
-Item.[Planning Item],Account.[Planning Account],Channel.[Planning Channel],Region.[Planning Region],PnL.[Planning PnL],Demand Domain.[Planning Demand Domain],Location.[Planning Location],Time.[Month],Version.[Version Name],Unit Price Override WRK,Unit Price,Unit Price WRK
-*101690_2580_CONS,CONS_1119273,All,CONS_2516834,All,CONS_EE0202,All,M07-Jul-2023,CurrentWorkingView,,0.3067,0.3067
-*101690_2580_CONS,CONS_1119273,All,CONS_2516834,All,CONS_EE0202,All,M08-Aug-2023,CurrentWorkingView,,0.3067,0.3067
-*101690_2580_CONS,CONS_1119273,All,CONS_2516834,All,CONS_EE0202,All,M09-Sep-2023,CurrentWorkingView,,0.3067,0.3067
-example data of both the files 
-below is my script 
-
-
 
